@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "screens": [
+    {
+      "id": "screen-desktop-1",
+      "slug": "desktop",
+      "name": "Desktop",
+      "width": 1440,
+      "height": 900
+    }
+  ],
+  "variables": {}
+}

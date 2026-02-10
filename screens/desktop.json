@@ -1,0 +1,13 @@
+{
+  "id": "screen-desktop-1",
+  "name": "Desktop",
+  "width": 1440,
+  "height": 900,
+  "root": {
+    "id": "root-1",
+    "type": "frame",
+    "name": "Root",
+    "className": "w-full h-full bg-background p-8",
+    "children": []
+  }
+}
